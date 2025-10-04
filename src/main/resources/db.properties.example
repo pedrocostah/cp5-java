@@ -1,0 +1,8 @@
+# Este arquivo é apenas um exemplo para o professor.
+# O projeto NÃO lê esse arquivo (usamos variáveis de ambiente ou -Ddb.*).
+
+db.url=jdbc:oracle:thin:@oracle.fiap.com.br:1521:ORCL
+# Se sua conexão for Service Name:
+# db.url=jdbc:oracle:thin:@//oracle.fiap.com.br:1521/ORCL
+db.user=SEU_RM
+db.pass=SUA_SENHA
